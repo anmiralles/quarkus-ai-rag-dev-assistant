@@ -169,12 +169,12 @@ Place PDF, DOCX, or HTML files in `src/main/resources/documents/`. The applicati
 ### Querying the Assistant
 
 ```bash
-curl "http://localhost:8080/copilot?q=How%20do%20I%20configure%20OVN-Kubernetes?"
+curl "http://localhost:8080/copilot?q=How%20do%20I%20configure%20quarkus?"
 ```
 
 Or visit in browser:
 ```
-http://localhost:8080/copilot?q=How do I configure OVN-Kubernetes?
+http://localhost:8080/copilot?q=How do I configure quarkus?
 ```
 
 ## Configuration
